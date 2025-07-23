@@ -3,12 +3,12 @@ emoji: "🌦️"
 publication_name: "doctormate"
 published: false
 # published_at: 2025-08-19 13:00
-title: "例外代わりの `Result<T, E>` という基本的なデータ型"
+title: "例外代わりの `Result<T, E>`"
 topics: ["rust"]
 type: "tech"
 ---
 
-# 例外代わりの `Result<T, E>` という基本的なデータ型
+# 例外代わりの `Result<T, E>`
 
 Rust には [`Result<T, E>`](https://doc.rust-lang.org/std/result/enum.Result.html) という型があります。だいたいこういう定義です。
 
@@ -122,7 +122,20 @@ assert_eq!(r.expect_err("r is Err"), "Error!");
 `unwrap_or` は `Err` の場合の値を指定することで unwrap します。 `unwrap_or_default` は `Err` の場合の値として `T` の `Default::default` の値を使用します。 `unwrap_or_else` は `Err` の場合の値の代わりに値を返す関数を指定します。 
 
 ```rust
+let r: Result<i32, &str> = Ok(123);
+assert_eq!(r.unwrap_or(456), 123);
+let r: Result<i32, &str> = Err("Error!");
+assert_eq!(r.unwrap_or(456), 456);
 
+let r: Result<i32, &str> = Ok(123);
+assert_eq!(r.unwrap_or_default(), 123);
+let r: Result<i32, &str> = Err("Error!");
+assert_eq!(r.unwrap_or_default(), 0);
+
+let r: Result<i32, &str> = Ok(123);
+assert_eq!(r.unwrap_or_else(|_| 456), 123);
+let r: Result<i32, &str> = Err("Error!");
+assert_eq!(r.unwrap_or_else(|_| 456), 456);
 ```
 
 
