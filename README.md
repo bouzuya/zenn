@@ -9,6 +9,7 @@
 - [2025-07-17 例外代わりの `Result<T, E>` という基本的なデータ型](articles/4d7ef9face7b07.md)
 - [2025-07-23 `Result<T, E>` のよく使うメソッドを書いてみる](articles/0142554bb24491.md)
 - [2025-07-27 `Error` トレイトの定義を確認してみた](articles/ab590aca69f16e.md)
+- [2025-07-30 Rust の `Error` の `downcast` で `Box<dyn Error>` からエラーを取り出す](articles/6312896db0fbf2.md)
 
 ## misc
 
