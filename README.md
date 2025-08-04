@@ -10,6 +10,7 @@
 - [2025-07-23 `Result<T, E>` のよく使うメソッドを書いてみる](articles/0142554bb24491.md)
 - [2025-07-27 `Error` トレイトの定義を確認してみた](articles/ab590aca69f16e.md)
 - [2025-07-30 Rust の `Error` の `downcast` で `Box<dyn Error>` からエラーを取り出す](articles/6312896db0fbf2.md)
+- [2025-08-04 `thiserror` crate の基本的な使い方](articles/8305782244b7f4.md)
 
 ## misc
 
