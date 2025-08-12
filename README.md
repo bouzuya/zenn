@@ -12,6 +12,7 @@
 - [2025-07-30 Rust の `Error` の `downcast` で `Box<dyn Error>` からエラーを取り出す](articles/6312896db0fbf2.md)
 - [2025-08-04 `thiserror` crate の基本的な使い方](articles/8305782244b7f4.md)
 - [2025-08-07 cargo-expand を使ってみよう](articles/4d591d072253ca.md)
+- [2025-08-12 ペアプロじゃない！ドクターメイト株式会社の「ペア」](articles/a907703cdc03f2.md)
 
 ## misc
 
