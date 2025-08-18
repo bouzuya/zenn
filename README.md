@@ -14,6 +14,8 @@
 - [2025-08-07 cargo-expand を使ってみよう](articles/4d591d072253ca.md)
 - [2025-08-12 ペアプロじゃない！ドクターメイト株式会社の「ペア」](articles/a907703cdc03f2.md)
 - [2025-08-16 Rust の derive macro を書いてみよう](articles/0a7cc9365d90cd.md)
+- [2025-08-18 derive macro helper attribute を試す](articles/2832eb691f8fbe.md)
+
 
 
 ## misc
