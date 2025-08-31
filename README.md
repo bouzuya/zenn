@@ -19,6 +19,7 @@
 - [2025-08-20 Debug トレイトの derive 属性での実装を見てみよう](articles/5c561314513dc9.md)
 - [2025-08-24 Debug トレイトの手動実装](articles/7debd0b9371b26.md)
 - [2025-08-28 axum crate を学び直す](articles/37c97d448cc218.md)
+- [2025-08-31 axum crate の Router の route メソッドなど](articles/7ccac91c3773d5.md)
 
 ## goals (2 articles/week)
 
