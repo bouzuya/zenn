@@ -1,8 +1,8 @@
 ---
 emoji: "🌦️"
 publication_name: "doctormate"
-published: false
-# published_at: 2025-08-19 13:00
+published: true
+published_at: 2025-09-08 12:00
 title: "例外代わりの `Result<T, E>`"
 topics: ["rust"]
 type: "tech"
