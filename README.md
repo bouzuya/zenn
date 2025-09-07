@@ -23,6 +23,7 @@
 - [2025-08-28](articles/37c97d448cc218.md) ([YYYY-MM-DD](https://zenn.dev/doctormate/articles/37c97d448cc218)) axum crate を学び直す
 - [2025-08-31](articles/7ccac91c3773d5.md) ([YYYY-MM-DD](https://zenn.dev/doctormate/articles/7ccac91c3773d5)) axum crate の Router の route メソッドなど
 - [2025-09-03](articles/1f4fc2ba5dc793.md) ([YYYY-MM-DD](https://zenn.dev/doctormate/articles/1f4fc2ba5dc793)) axum crate の設定した Router はどう動くのか
+- [2025-09-07](articles/b666c9b0e8fe64.md) ([YYYY-MM-DD](https://zenn.dev/doctormate/articles/b666c9b0e8fe64)) axum crate の Router の fallback メソッド
 
 ## goals (2 articles/week)
 
@@ -35,7 +36,8 @@
 - 2025-W33 (2025-08-11/) ... 2025-08-18, 2025-08-19
 - 2025-W34 (2025-08-18/) ... 2025-08-20, 2025-08-24
 - 2025-W35 (2025-08-25/) ... 2025-08-28, 2025-08-31
-- 2025-W36 (2025-09-01/) ... 2025-09-03, ?
+- 2025-W36 (2025-09-01/) ... 2025-09-03, 2025-09-07
+- 2025-W37 (2025-09-08/) ... ?, ?
 
 ## misc
 
