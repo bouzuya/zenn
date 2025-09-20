@@ -26,6 +26,7 @@
 - [2025-09-07](articles/b666c9b0e8fe64.md) ([2025-12-15](https://zenn.dev/doctormate/articles/b666c9b0e8fe64)) axum crate の Router::fallback
 - [2025-09-08](articles/766e4c71d4970f.md) ([2025-12-22](https://zenn.dev/doctormate/articles/766e4c71d4970f)) axum crate のテスト
 - [2025-09-14](articles/504f941834f245.md) ([2025-12-29](https://zenn.dev/doctormate/articles/504f941834f245)) axum crate の Router::merge と nest
+- [2025-09-20](articles/5657ef250f7bd2.md) ([2026-01-05](https://zenn.dev/doctormate/articles/5657ef250f7bd2)) axum crate の Handler
 
 ## goals (2 articles/week)
 
@@ -40,9 +41,18 @@
 - 2025-W35 (2025-08-25/) ... 2025-08-28, 2025-08-31
 - 2025-W36 (2025-09-01/) ... 2025-09-03, 2025-09-07
 - 2025-W37 (2025-09-08/) ... 2025-09-08, 2025-09-14
+- 2025-W38 (2025-09-15/) ... 2025-09-20, ?
+- 2025-W39 (2025-09-22/) ... ?, ?
 
 ## misc
 
 - <https://zenn.dev/zenn/articles/install-zenn-cli>
 - <https://zenn.dev/zenn/articles/zenn-cli-guide>
 - <https://zenn.dev/guideline>
+
+## memo
+
+### axum crate についての続き物の考えかた
+
+- axum を学び直し、そのあゆみを書き留める
+- ドキュメントだけでなくソースコードを追いかけて、どのようなつくりなのかを学ぶ
