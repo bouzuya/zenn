@@ -28,6 +28,7 @@
 - [2025-09-14](articles/504f941834f245.md) ([2025-12-29](https://zenn.dev/doctormate/articles/504f941834f245)) axum crate の Router::merge と nest
 - [2025-09-20](articles/5657ef250f7bd2.md) ([2026-01-05](https://zenn.dev/doctormate/articles/5657ef250f7bd2)) axum crate の Handler
 - [2025-09-21](articles/7f7114a3b12e87.md) ([2026-01-12](https://zenn.dev/doctormate/articles/7f7114a3b12e87)) axum crate の Handler の実装を見てみよう
+- [2025-09-23](articles/10745f66b57301.md) ([2025-01-19](https://zenn.dev/doctormate/articles/10745f66b57301)) axum crate の Extractor
 
 ## goals (2 articles/week)
 
@@ -43,7 +44,7 @@
 - 2025-W36 (2025-09-01/) ... 2025-09-03, 2025-09-07
 - 2025-W37 (2025-09-08/) ... 2025-09-08, 2025-09-14
 - 2025-W38 (2025-09-15/) ... 2025-09-20, 2025-09-21
-- 2025-W39 (2025-09-22/) ... ?, ?
+- 2025-W39 (2025-09-22/) ... 2025-09-23, ?
 
 ## misc
 
