@@ -61,3 +61,8 @@
 
 - axum を学び直し、そのあゆみを書き留める
 - ドキュメントだけでなくソースコードを追いかけて、どのようなつくりなのかを学ぶ
+
+### TODOs
+
+- [ ] composite_rejection macro
+- [ ] bytes crate
