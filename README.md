@@ -30,7 +30,8 @@
 - [2025-09-21](articles/7f7114a3b12e87.md) ([2026-01-12](https://zenn.dev/doctormate/articles/7f7114a3b12e87)) axum crate の Handler の実装を見てみよう
 - [2025-09-23](articles/10745f66b57301.md) ([2025-01-19](https://zenn.dev/doctormate/articles/10745f66b57301)) axum crate の Extractor
 - [2025-09-28](articles/527857bab9cbf1.md) ([2025-01-26](https://zenn.dev/doctormate/articles/527857bab9cbf1)) axum crate の FromRequestParts の標準で提供される実装
-- [2025-10-01](articles/5949668be45972.md) ([2025-02-02](https://zenn.dev/doctormate/articles/527857bab9cbf1)) axum crate の FromRequest の標準で提供される実装
+- [2025-10-01](articles/5949668be45972.md) ([2025-02-02](https://zenn.dev/doctormate/articles/5949668be45972)) axum crate の FromRequest の標準で提供される実装
+- [2025-10-04](articles/13fa4c648fde39.md) ([2025-02-09](https://zenn.dev/doctormate/articles/13fa4c648fde39)) axum crate の ……
 
 ## goals (2 articles/week)
 
@@ -47,7 +48,7 @@
 - 2025-W37 (2025-09-08/) ... 2025-09-08, 2025-09-14
 - 2025-W38 (2025-09-15/) ... 2025-09-20, 2025-09-21
 - 2025-W39 (2025-09-22/) ... 2025-09-23, 2025-09-28
-- 2025-W40 (2025-09-29/) ... ?, ?
+- 2025-W40 (2025-09-29/) ... 2025-10-01, 2025-10-04
 
 ## misc
 
