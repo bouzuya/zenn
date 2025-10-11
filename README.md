@@ -33,6 +33,7 @@
 - [2025-10-01](articles/5949668be45972.md) ([2025-02-02](https://zenn.dev/doctormate/articles/5949668be45972)) axum crate の FromRequest の標準で提供される実装
 - [2025-10-04](articles/13fa4c648fde39.md) ([2025-02-09](https://zenn.dev/doctormate/articles/13fa4c648fde39)) axum crate の IntoResponse の標準で提供される実装 (1)
 - [2025-10-08](articles/093f5b5fb858b4.md) ([2025-02-16](https://zenn.dev/doctormate/articles/093f5b5fb858b4)) axum crate の IntoResponse の標準で提供される実装 (2)
+- [2025-10-11](articles/c06c95f0532c09.md) ([2025-10-15](https://zenn.dev/doctormate/articles/c06c95f0532c09)) git diff --stat A...B のススメ
 
 ## goals (2 articles/week)
 
