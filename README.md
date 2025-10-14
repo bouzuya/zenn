@@ -22,7 +22,7 @@
 - [2025-08-24](articles/7debd0b9371b26.md) ([2025-11-17](https://zenn.dev/doctormate/articles/7debd0b9371b26)) Debug トレイトの手動実装
 - [2025-08-28](articles/37c97d448cc218.md) ([2025-11-24](https://zenn.dev/doctormate/articles/37c97d448cc218)) axum crate を学び直す
 - [2025-08-31](articles/7ccac91c3773d5.md) ([2025-12-01](https://zenn.dev/doctormate/articles/7ccac91c3773d5)) axum crate の Router の route メソッドなど
-- [2025-09-03](articles/1f4fc2ba5dc793.md) ([2025-12-08](https://zenn.dev/doctormate/articles/1f4fc2ba5dc793)) axum crate の設定した Router はどう動くのか
+- [2025-09-03](articles/1f4fc2ba5dc793.md) ([2025-12-08](https://zenn.dev/doctormate/articles/1f4fc2ba5dc793)) axum crate の Router はどう動くのか
 - [2025-09-07](articles/b666c9b0e8fe64.md) ([2025-12-15](https://zenn.dev/doctormate/articles/b666c9b0e8fe64)) axum crate の Router::fallback
 - [2025-09-08](articles/766e4c71d4970f.md) ([2025-12-22](https://zenn.dev/doctormate/articles/766e4c71d4970f)) axum crate のテスト
 - [2025-09-14](articles/504f941834f245.md) ([2025-12-29](https://zenn.dev/doctormate/articles/504f941834f245)) axum crate の Router::merge と nest
