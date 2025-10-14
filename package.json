@@ -15,9 +15,13 @@
     "url": "git+https://github.com/bouzuya/zenn.git"
   },
   "scripts": {
+    "list": "node scripts/list-articles.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "zenn-cli": "^0.2.3"
+  },
+  "devDependencies": {
+    "front-matter": "^4.0.2"
   }
 }
