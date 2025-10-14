@@ -8,7 +8,7 @@
 - [2025-07-06](articles/7100b404d89917.md) ([2025-08-12](https://zenn.dev/doctormate/articles/7100b404d89917)) `null` 代わりの `Option<T>` という基本的なデータ型
 - [2025-07-09](articles/c33520c865d85e.md) ([2025-08-19](https://zenn.dev/doctormate/articles/c33520c865d85e)) `Option<T>` のよく使うメソッドを書いてみる
 - [2025-07-15](articles/35e698d10c1388.md) ([2025-09-01](https://zenn.dev/doctormate/articles/35e698d10c1388)) tokei で行数を測ってみる
-- [2025-07-17](articles/4d7ef9face7b07.md) ([2025-09-08](https://zenn.dev/doctormate/articles/4d7ef9face7b07)) 例外代わりの `Result<T, E>` という基本的なデータ型
+- [2025-07-17](articles/4d7ef9face7b07.md) ([2025-09-08](https://zenn.dev/doctormate/articles/4d7ef9face7b07)) 例外代わりの `Result<T, E>`
 - [2025-07-23](articles/0142554bb24491.md) ([2025-09-16](https://zenn.dev/doctormate/articles/0142554bb24491)) `Result<T, E>` のよく使うメソッドを書いてみる
 - [2025-07-27](articles/ab590aca69f16e.md) ([2025-09-22](https://zenn.dev/doctormate/articles/ab590aca69f16e)) `Error` トレイトの定義を確認してみた
 - [2025-07-30](articles/6312896db0fbf2.md) ([2025-09-29](https://zenn.dev/doctormate/articles/6312896db0fbf2)) Rust の `Error` の `downcast` で `Box<dyn Error>` からエラーを取り出す
@@ -16,8 +16,8 @@
 - [2025-08-07](articles/4d591d072253ca.md) ([2025-10-13](https://zenn.dev/doctormate/articles/4d591d072253ca)) cargo-expand を使ってみよう
 - [2025-08-12](articles/a907703cdc03f2.md) ([2025-08-25](https://zenn.dev/doctormate/articles/a907703cdc03f2)) ペアプロじゃない！ドクターメイト株式会社の「ペア」
 - [2025-08-16](articles/0a7cc9365d90cd.md) ([2025-10-20](https://zenn.dev/doctormate/articles/0a7cc9365d90cd)) Rust の derive macro を書いてみよう
-- [2025-08-18](articles/2832eb691f8fbe.md) ([2025-10-27](https://zenn.dev/doctormate/articles/2832eb691f8fbe)) derive macro helper attribute を試す
-- [2025-08-19](articles/884e8f2c258635.md) ([2025-11-03](https://zenn.dev/doctormate/articles/884e8f2c258635)) trybuild での derive macro のテスト
+- [2025-08-18](articles/2832eb691f8fbe.md) ([2025-10-27](https://zenn.dev/doctormate/articles/2832eb691f8fbe)) derive macro の helper attribute を試す
+- [2025-08-19](articles/884e8f2c258635.md) ([2025-11-03](https://zenn.dev/doctormate/articles/884e8f2c258635)) trybuild crate での derive macro のテスト
 - [2025-08-20](articles/5c561314513dc9.md) ([2025-11-10](https://zenn.dev/doctormate/articles/5c561314513dc9)) Debug トレイトの derive 属性での実装を見てみよう
 - [2025-08-24](articles/7debd0b9371b26.md) ([2025-11-17](https://zenn.dev/doctormate/articles/7debd0b9371b26)) Debug トレイトの手動実装
 - [2025-08-28](articles/37c97d448cc218.md) ([2025-11-24](https://zenn.dev/doctormate/articles/37c97d448cc218)) axum crate を学び直す
@@ -28,11 +28,11 @@
 - [2025-09-14](articles/504f941834f245.md) ([2025-12-29](https://zenn.dev/doctormate/articles/504f941834f245)) axum crate の Router::merge と nest
 - [2025-09-20](articles/5657ef250f7bd2.md) ([2026-01-05](https://zenn.dev/doctormate/articles/5657ef250f7bd2)) axum crate の Handler
 - [2025-09-21](articles/7f7114a3b12e87.md) ([2026-01-12](https://zenn.dev/doctormate/articles/7f7114a3b12e87)) axum crate の Handler の実装を見てみよう
-- [2025-09-23](articles/10745f66b57301.md) ([2025-01-19](https://zenn.dev/doctormate/articles/10745f66b57301)) axum crate の Extractor
-- [2025-09-28](articles/527857bab9cbf1.md) ([2025-01-26](https://zenn.dev/doctormate/articles/527857bab9cbf1)) axum crate の FromRequestParts の標準で提供される実装
-- [2025-10-01](articles/5949668be45972.md) ([2025-02-02](https://zenn.dev/doctormate/articles/5949668be45972)) axum crate の FromRequest の標準で提供される実装
-- [2025-10-04](articles/13fa4c648fde39.md) ([2025-02-09](https://zenn.dev/doctormate/articles/13fa4c648fde39)) axum crate の IntoResponse の標準で提供される実装 (1)
-- [2025-10-08](articles/093f5b5fb858b4.md) ([2025-02-16](https://zenn.dev/doctormate/articles/093f5b5fb858b4)) axum crate の IntoResponse の標準で提供される実装 (2)
+- [2025-09-23](articles/10745f66b57301.md) ([2026-01-19](https://zenn.dev/doctormate/articles/10745f66b57301)) axum crate の Extractor
+- [2025-09-28](articles/527857bab9cbf1.md) ([2026-01-26](https://zenn.dev/doctormate/articles/527857bab9cbf1)) axum crate の FromRequestParts の標準で提供される実装
+- [2025-10-01](articles/5949668be45972.md) ([2026-02-02](https://zenn.dev/doctormate/articles/5949668be45972)) axum crate の FromRequest の標準で提供される実装
+- [2025-10-04](articles/13fa4c648fde39.md) ([2026-02-09](https://zenn.dev/doctormate/articles/13fa4c648fde39)) axum crate の IntoResponse の標準で提供される実装 (1)
+- [2025-10-08](articles/093f5b5fb858b4.md) ([2026-02-16](https://zenn.dev/doctormate/articles/093f5b5fb858b4)) axum crate の IntoResponse の標準で提供される実装 (2)
 - [2025-10-11](articles/c06c95f0532c09.md) ([2025-10-15](https://zenn.dev/doctormate/articles/c06c95f0532c09)) git diff --stat A...B のススメ
 
 ## goals (2 articles/week)
