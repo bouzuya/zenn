@@ -16,6 +16,7 @@
   },
   "scripts": {
     "list": "node scripts/list-articles.mjs",
+    "show-date": "node scripts/show-date.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
