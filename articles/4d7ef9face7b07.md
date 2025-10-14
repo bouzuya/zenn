@@ -3,12 +3,10 @@ emoji: "🌦️"
 publication_name: "doctormate"
 published: true
 published_at: 2025-09-08 12:00
-title: "例外代わりの `Result<T, E>`"
+title: "例外代わりの Result<T, E>"
 topics: ["rust"]
 type: "tech"
 ---
-
-# 例外代わりの `Result<T, E>`
 
 Rust には [`Result<T, E>`](https://doc.rust-lang.org/std/result/enum.Result.html) という型があります。だいたいこういう定義です。
 
