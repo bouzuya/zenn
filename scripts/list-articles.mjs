@@ -13,7 +13,7 @@ function main() {
             '-',
             `[${date}](articles/${slug}.md)`,
             `([${pubdate}](https://zenn.dev/doctormate/articles/${slug}))`,
-            title
+            title.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;')
         ].join(' ');
         console.log(line);
     }

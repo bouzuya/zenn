@@ -5,13 +5,13 @@
 `作成日 (公開日) タイトル`
 
 - [2025-07-01](articles/269b20722fd9cd.md) ([2025-08-04](https://zenn.dev/doctormate/articles/269b20722fd9cd)) Rust をはじめるメンバーに伝えたい「 if より match 」
-- [2025-07-06](articles/7100b404d89917.md) ([2025-08-12](https://zenn.dev/doctormate/articles/7100b404d89917)) null 代わりの Option<T>
-- [2025-07-09](articles/c33520c865d85e.md) ([2025-08-19](https://zenn.dev/doctormate/articles/c33520c865d85e)) Option<T> のよく使うメソッドを書いてみる
+- [2025-07-06](articles/7100b404d89917.md) ([2025-08-12](https://zenn.dev/doctormate/articles/7100b404d89917)) null 代わりの Option&lt;T&gt;
+- [2025-07-09](articles/c33520c865d85e.md) ([2025-08-19](https://zenn.dev/doctormate/articles/c33520c865d85e)) Option&lt;T&gt; のよく使うメソッドを書いてみる
 - [2025-07-15](articles/35e698d10c1388.md) ([2025-09-01](https://zenn.dev/doctormate/articles/35e698d10c1388)) tokei で行数を測ってみる
-- [2025-07-17](articles/4d7ef9face7b07.md) ([2025-09-08](https://zenn.dev/doctormate/articles/4d7ef9face7b07)) 例外代わりの Result<T, E>
-- [2025-07-23](articles/0142554bb24491.md) ([2025-09-16](https://zenn.dev/doctormate/articles/0142554bb24491)) Result<T, E> のよく使うメソッドを書いてみる
+- [2025-07-17](articles/4d7ef9face7b07.md) ([2025-09-08](https://zenn.dev/doctormate/articles/4d7ef9face7b07)) 例外代わりの Result&lt;T, E&gt;
+- [2025-07-23](articles/0142554bb24491.md) ([2025-09-16](https://zenn.dev/doctormate/articles/0142554bb24491)) Result&lt;T, E&gt; のよく使うメソッドを書いてみる
 - [2025-07-27](articles/ab590aca69f16e.md) ([2025-09-22](https://zenn.dev/doctormate/articles/ab590aca69f16e)) Error トレイトの定義を確認してみた
-- [2025-07-30](articles/6312896db0fbf2.md) ([2025-09-29](https://zenn.dev/doctormate/articles/6312896db0fbf2)) Rust の Error の downcast で Box<dyn Error> からエラーを取り出す
+- [2025-07-30](articles/6312896db0fbf2.md) ([2025-09-29](https://zenn.dev/doctormate/articles/6312896db0fbf2)) Rust の Error の downcast で Box&lt;dyn Error&gt; からエラーを取り出す
 - [2025-08-04](articles/8305782244b7f4.md) ([2025-10-06](https://zenn.dev/doctormate/articles/8305782244b7f4)) thiserror crate の基本的な使い方
 - [2025-08-07](articles/4d591d072253ca.md) ([2025-10-13](https://zenn.dev/doctormate/articles/4d591d072253ca)) cargo-expand を使ってみよう
 - [2025-08-12](articles/a907703cdc03f2.md) ([2025-08-25](https://zenn.dev/doctormate/articles/a907703cdc03f2)) ペアプロじゃない！ドクターメイト株式会社の「ペア」
