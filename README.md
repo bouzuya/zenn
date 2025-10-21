@@ -71,3 +71,15 @@
 ### TODOs
 
 - [ ] bytes crate
+
+### メモ: Middleware の作成 (WIP)
+
+- `axum::middleware::from_fn`
+- `axum::middleware::from_extractor`
+- `tower::ServiceBuilder::map_request`
+- `tower::ServiceBuilder::map_response`
+- `tower::ServiceBuilder::then`
+- `tower::ServiceBuilder::and_then`
+- `tower::Service` (最大の制御)
+
+<https://github.com/tower-rs/tower/blob/master/guides/building-a-middleware-from-scratch.md>
