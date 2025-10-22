@@ -144,9 +144,11 @@ assert_eq!(r.unwrap_or_else(|_| 456), 456);
 一方で `unwrap_err` は意外とテストにおけるエラーの検証に使われています。 `unwrap` はダメだけど、 `unwrap_err` はいいんですね。ふしぎですね。
 
 
-# 次回予告
+# おわりに
 
 ほとんど `Option<T>` と同じですね！　次回もほとんど `Option<T>` と同じになりそうですね！！ `?` 演算子に触れると思います。たぶん。
+
+追記: 次回『 [Result&lt;T, E&gt; のよく使うメソッドを書いてみる](https://zenn.dev/doctormate/articles/0142554bb24491)』を書きました。
 
 # 参考
 
