@@ -35,6 +35,8 @@
 - [2025-10-08](articles/093f5b5fb858b4.md) ([2026-02-16](https://zenn.dev/doctormate/articles/093f5b5fb858b4)) axum crate の IntoResponse の標準で提供される実装 (2)
 - [2025-10-11](articles/c06c95f0532c09.md) ([2025-10-15](https://zenn.dev/doctormate/articles/c06c95f0532c09)) git diff --stat A...B のススメ
 - [2025-10-14](articles/0ae1263c351356.md) ([2026-02-23](https://zenn.dev/doctormate/articles/0ae1263c351356)) axum crate のエラーハンドリング
+- [2025-10-19](articles/363f753577c1f5.md) ([2026-03-02](https://zenn.dev/doctormate/articles/363f753577c1f5)) axum crate の Middleware (1) Middleware の適用順序
+- [2025-10-25](articles/667a79400b5815.md) ([2026-03-02](https://zenn.dev/doctormate/articles/667a79400b5815)) axum crate の Middleware (2) axum::middleware::from_fn
 
 ## goals (2 articles/week)
 
@@ -54,6 +56,7 @@
 - 2025-W40 (2025-09-29/) ... 2025-10-01, 2025-10-04
 - 2025-W41 (2025-10-06/) ... 2025-10-08, 2025-10-11
 - 2025-W42 (2025-10-13/) ... 2025-10-14, 2025-10-19
+- 2025-W43 (2025-10-20/) ... 2025-10-25, ?
 
 ## misc
 
@@ -71,15 +74,9 @@
 ### TODOs
 
 - [ ] bytes crate
-
-### メモ: Middleware の作成 (WIP)
-
-- `axum::middleware::from_fn`
-- `axum::middleware::from_extractor`
-- `tower::ServiceBuilder::map_request`
-- `tower::ServiceBuilder::map_response`
-- `tower::ServiceBuilder::then`
-- `tower::ServiceBuilder::and_then`
-- `tower::Service` (最大の制御)
-
-<https://github.com/tower-rs/tower/blob/master/guides/building-a-middleware-from-scratch.md>
+- [ ] <https://github.com/tower-rs/tower/blob/master/guides/building-a-middleware-from-scratch.md>
+    - via 667a79400b5815
+- [ ] <https://github.com/tower-rs/tower/tree/master/guides>
+    - via 363f753577c1f5
+- [ ] <https://docs.rs/tower/0.5.2/tower/builder/struct.ServiceBuilder.html>
+    - via 363f753577c1f5
