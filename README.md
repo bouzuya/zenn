@@ -39,7 +39,7 @@
 - [2025-10-25](articles/667a79400b5815.md) ([2026-03-09](https://zenn.dev/doctormate/articles/667a79400b5815)) axum crate の Middleware (2) axum::middleware::from_fn
 - [2025-10-26](articles/2582963afb4646.md) ([2026-03-16](https://zenn.dev/doctormate/articles/2582963afb4646)) axum crate の Middleware (3) axum::middleware::from_extractor
 - [2025-11-01](articles/9c757ab73eb2f1.md) ([2026-03-23](https://zenn.dev/doctormate/articles/9c757ab73eb2f1)) axum crate の Middleware (4) tower's combinators
-- [2025-11-02](articles/abfda594ed52c2.md) ([2026-03-30](https://zenn.dev/doctormate/articles/abfda594ed52c2)) async-graphql で ValidationResult (complexity, depth) を確認する
+- [2025-11-02](articles/abfda594ed52c2.md) ([2025-11-12](https://zenn.dev/doctormate/articles/abfda594ed52c2)) async-graphql で ValidationResult (complexity, depth) を確認する
 
 ## goals (2 articles/week)
 

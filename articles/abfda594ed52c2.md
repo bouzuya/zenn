@@ -2,7 +2,7 @@
 emoji: "🙌"
 publication_name: "doctormate"
 published: true
-published_at: 2026-03-30 12:00
+published_at: 2025-11-12 12:00
 title: "async-graphql で ValidationResult (complexity, depth) を確認する"
 topics: ["rust"]
 type: "tech"
