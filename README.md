@@ -87,3 +87,5 @@
 - [ ] <https://docs.rs/tower/0.5.2/tower/builder/struct.ServiceBuilder.html>
     - via 363f753577c1f5
 - [ ] pin_project!
+- [ ] <https://github.com/tower-rs/tower/blob/master/guides/building-a-middleware-from-scratch.md>
+    - via 29e436b59d9f61
