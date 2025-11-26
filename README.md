@@ -42,6 +42,7 @@
 - [2025-11-02](articles/abfda594ed52c2.md) ([2025-11-12](https://zenn.dev/doctormate/articles/abfda594ed52c2)) async-graphql で ValidationResult (complexity, depth) を確認する
 - [2025-11-08](articles/698f2f63079de2.md) ([2026-03-30](https://zenn.dev/doctormate/articles/698f2f63079de2)) axum crate の Middleware (5) tower::Service and Pin&lt;Box&lt;dyn Future&gt;&gt;
 - [2025-11-11](articles/29e436b59d9f61.md) ([2026-04-06](https://zenn.dev/doctormate/articles/29e436b59d9f61)) axum crate の Middleware (6) Error handling など
+- [2025-11-26](articles/32dd1afef9555c.md) ([2026-04-20](https://zenn.dev/doctormate/articles/32dd1afef9555c)) `#[must_use]` を使ってみよう
 
 ## goals (2 articles/week)
 
@@ -63,7 +64,10 @@
 - 2025-W42 (2025-10-13/) ... 2025-10-14, 2025-10-19
 - 2025-W43 (2025-10-20/) ... 2025-10-25, 2025-10-26
 - 2025-W44 (2025-10-27/) ... 2025-11-01, 2025-11-02
-- 2025-W45 (2025-11-03/) ... 2025-11-08, ?
+- 2025-W45 (2025-11-03/) ... 2025-11-08, x
+- 2025-W46 (2025-11-10/) ... 2025-11-11, x
+- 2025-W47 (2025-11-17/) ... x, x
+- 2025-W48 (2025-11-24/) ... 2025-11-26, ?
 
 ## misc
 
@@ -83,10 +87,9 @@
 - [ ] bytes crate
 - [ ] <https://github.com/tower-rs/tower/blob/master/guides/building-a-middleware-from-scratch.md>
     - via 667a79400b5815
+    - via 29e436b59d9f61
 - [ ] <https://github.com/tower-rs/tower/tree/master/guides>
     - via 363f753577c1f5
 - [ ] <https://docs.rs/tower/0.5.2/tower/builder/struct.ServiceBuilder.html>
     - via 363f753577c1f5
 - [ ] pin_project!
-- [ ] <https://github.com/tower-rs/tower/blob/master/guides/building-a-middleware-from-scratch.md>
-    - via 29e436b59d9f61
