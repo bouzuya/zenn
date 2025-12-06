@@ -43,6 +43,8 @@
 - [2025-11-08](articles/698f2f63079de2.md) ([2026-03-30](https://zenn.dev/doctormate/articles/698f2f63079de2)) axum crate の Middleware (5) tower::Service and Pin&lt;Box&lt;dyn Future&gt;&gt;
 - [2025-11-11](articles/29e436b59d9f61.md) ([2026-04-06](https://zenn.dev/doctormate/articles/29e436b59d9f61)) axum crate の Middleware (6) Error handling など
 - [2025-11-26](articles/32dd1afef9555c.md) ([2025-12-04](https://zenn.dev/doctormate/articles/32dd1afef9555c)) Rust の must_use 属性を使ったことはありますか？
+- [2025-12-06](articles/e0e241712f5cad.md) ([2026-04-13](https://zenn.dev/doctormate/articles/e0e241712f5cad)) impl From での構造体の詰め替え時に destructuring するパターン
+
 
 ## goals (2 articles/week)
 
