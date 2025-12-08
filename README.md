@@ -44,7 +44,7 @@
 - [2025-11-11](articles/29e436b59d9f61.md) ([2026-04-06](https://zenn.dev/doctormate/articles/29e436b59d9f61)) axum crate の Middleware (6) Error handling など
 - [2025-11-26](articles/32dd1afef9555c.md) ([2025-12-04](https://zenn.dev/doctormate/articles/32dd1afef9555c)) Rust の must_use 属性を使ったことはありますか？
 - [2025-12-06](articles/e0e241712f5cad.md) ([2026-04-13](https://zenn.dev/doctormate/articles/e0e241712f5cad)) impl From での構造体の詰め替え時に destructuring するパターン
-
+- [2025-12-07](articles/2bdd512d9ce0d2.md) ([2026-04-20](https://zenn.dev/doctormate/articles/2bdd512d9ce0d2)) non_exhaustive でフィールド・バリアント追加で壊れないコードを強制しよう
 
 ## goals (2 articles/week)
 
@@ -69,7 +69,9 @@
 - 2025-W45 (2025-11-03/) ... 2025-11-08, x
 - 2025-W46 (2025-11-10/) ... 2025-11-11, x
 - 2025-W47 (2025-11-17/) ... x, x
-- 2025-W48 (2025-11-24/) ... 2025-11-26, ?
+- 2025-W48 (2025-11-24/) ... 2025-11-26, x
+- 2025-W49 (2025-12-01/) ... 2025-12-06, 2025-12-07
+- 2025-W50 (2025-12-08/) ... ?, ?
 
 ## misc
 
