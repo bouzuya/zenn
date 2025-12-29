@@ -25,7 +25,7 @@
 - [2025-09-03](articles/1f4fc2ba5dc793.md) ([2025-12-08](https://zenn.dev/doctormate/articles/1f4fc2ba5dc793)) axum crate の Router (2) 設定済みの Router はどう動くのか
 - [2025-09-07](articles/b666c9b0e8fe64.md) ([2025-12-15](https://zenn.dev/doctormate/articles/b666c9b0e8fe64)) axum crate の Router (3) Router::fallback
 - [2025-09-08](articles/766e4c71d4970f.md) ([2025-12-22](https://zenn.dev/doctormate/articles/766e4c71d4970f)) axum crate のテスト
-- [2025-09-14](articles/504f941834f245.md) ([2025-12-29](https://zenn.dev/doctormate/articles/504f941834f245)) axum crate の Router::merge と nest
+- [2025-09-14](articles/504f941834f245.md) ([2025-12-29](https://zenn.dev/doctormate/articles/504f941834f245)) axum crate の Router (4) Router::merge と nest
 - [2025-09-20](articles/5657ef250f7bd2.md) ([2026-01-05](https://zenn.dev/doctormate/articles/5657ef250f7bd2)) axum crate の Handler
 - [2025-09-21](articles/7f7114a3b12e87.md) ([2026-01-12](https://zenn.dev/doctormate/articles/7f7114a3b12e87)) axum crate の Handler の実装を見てみよう
 - [2025-09-23](articles/10745f66b57301.md) ([2026-01-19](https://zenn.dev/doctormate/articles/10745f66b57301)) axum crate の Extractor
