@@ -91,6 +91,26 @@
 
 ## memo
 
+### 新しい記事の作成
+
+1. 記事を作成
+
+```
+$ npx zenn new:article
+```
+
+2. articles.json を更新
+
+作成日をキー、 slug を値として追加
+
+3. front-matter を修正
+
+他の記事を参考に
+
+4. README を更新
+
+`npm run list` の出力で
+
 ### axum crate についての続き物の考えかた (2025-08-28/...)
 
 - axum を学び直し、そのあゆみを書き留める
