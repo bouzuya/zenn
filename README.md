@@ -45,6 +45,8 @@
 - [2025-11-26](articles/32dd1afef9555c.md) ([2025-12-04](https://zenn.dev/doctormate/articles/32dd1afef9555c)) Rust の must_use 属性を使ったことはありますか？
 - [2025-12-06](articles/e0e241712f5cad.md) ([2026-04-13](https://zenn.dev/doctormate/articles/e0e241712f5cad)) impl From での構造体の詰め替え時に destructuring するパターン
 - [2025-12-07](articles/2bdd512d9ce0d2.md) ([2026-04-20](https://zenn.dev/doctormate/articles/2bdd512d9ce0d2)) non_exhaustive でフィールド・バリアント追加で壊れないコードを強制しよう
+- [2026-02-03](articles/f2befc4f32adb7.md) ([2026-02-05](https://zenn.dev/doctormate/articles/f2befc4f32adb7)) Claude Code のマスコットキャラクターの名前は？
+
 
 ## goals (2 articles/week)
 
@@ -79,7 +81,7 @@
 - 2026-W03 (2026-01-12/) ... x, x
 - 2026-W04 (2026-01-19/) ... x, x
 - 2026-W05 (2026-01-26/) ... x, x
-- 2026-W06 (2026-02-02/) ... ?, ?
+- 2026-W06 (2026-02-02/) ... 2026-02-03, ?
 
 ## misc
 
