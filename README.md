@@ -95,7 +95,7 @@
 
 1. 記事を作成
 
-```
+```console
 $ npx zenn new:article
 ```
 
